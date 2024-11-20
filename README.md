@@ -15,3 +15,4 @@ Other branches: Each branch corresponds to a different lab exercise.
 Introduces the fundamentals of object-oriented programming, including classes, standard libraries, and external libraries.
 2. LAB 1: oop-intermediate-tasks branch.
 Building confidence with designing classes, creating diverse objects, exploring modules and packages, and continuing mastering Git essentials.
+3. LAB 2: oop-advanced-tasks branch. This lab focuses on using inheritance to build and extend a hierarchy of classes. You'll explore class hierarchies, method overriding, and encapsulation to create a structured system of beverage-related classes, enhancing reuse and promoting clean code principles.
