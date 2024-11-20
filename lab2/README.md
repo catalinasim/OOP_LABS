@@ -1,6 +1,6 @@
-## Laboratory Work 1 - Creating Multiple Objects and Class Composition
+## Laboratory Work 2 - Coffee Inheritance
 
-- **Code Location**: `lab1`
+- **Code Location**: `lab2`
 
 ## How to Run
 
