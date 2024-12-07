@@ -1,0 +1,3 @@
+enum class SyrupType {
+    MACADAMIA, VANILLA, COCONUT, CARAMEL, CHOCOLATE, POPCORN
+}

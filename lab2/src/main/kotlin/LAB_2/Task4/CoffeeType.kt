@@ -1,4 +1,5 @@
 package LAB_2.Task4
 
-class CoffeeType {
+enum class CoffeeType {
+    AMERICANO, CAPPUCCINO, PUMPKIN_SPICE_LATTE, SYRUP_CAPPUCCINO
 }
