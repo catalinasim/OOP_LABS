@@ -1,6 +1,6 @@
-## Laboratory Work 2 - Coffee Inheritance
+## Laboratory Work 3 - Car Station Lab
 
-- **Code Location**: `lab2`
+- **Code Location**: `lab3`
 
 ## How to Run
 
